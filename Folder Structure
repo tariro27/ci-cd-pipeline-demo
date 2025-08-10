@@ -1,0 +1,10 @@
+ci-cd-pipeline-demo/
+│── src/
+│ └── test/
+│ └── java/
+│ └── sampleTests/
+│── .github/
+│ └── workflows/
+│ └── ci.yml # GitHub Actions workflow
+│── pom.xml
+│── README.md
